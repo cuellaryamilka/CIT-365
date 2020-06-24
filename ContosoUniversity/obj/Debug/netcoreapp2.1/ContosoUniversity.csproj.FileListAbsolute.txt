@@ -39,3 +39,8 @@ D:\BYUI\CIT 365 Net Software Development\VSProjects\CIT-365\ContosoUniversity\ob
 D:\BYUI\CIT 365 Net Software Development\VSProjects\CIT-365\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Students\Details.cshtml.g.cs
 D:\BYUI\CIT 365 Net Software Development\VSProjects\CIT-365\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Students\Edit.cshtml.g.cs
 D:\BYUI\CIT 365 Net Software Development\VSProjects\CIT-365\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Students\Index.cshtml.g.cs
+D:\BYUI\CIT 365 Net Software Development\VSProjects\CIT-365\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Create.cshtml.g.cs
+D:\BYUI\CIT 365 Net Software Development\VSProjects\CIT-365\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Delete.cshtml.g.cs
+D:\BYUI\CIT 365 Net Software Development\VSProjects\CIT-365\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Details.cshtml.g.cs
+D:\BYUI\CIT 365 Net Software Development\VSProjects\CIT-365\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Edit.cshtml.g.cs
+D:\BYUI\CIT 365 Net Software Development\VSProjects\CIT-365\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Index.cshtml.g.cs
