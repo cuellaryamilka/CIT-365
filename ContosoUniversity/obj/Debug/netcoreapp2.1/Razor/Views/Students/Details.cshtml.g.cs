@@ -171,7 +171,7 @@ using ContosoUniversity.Models;
             WriteLiteral("            </table>\r\n        </dd>\r\n    </dl>\r\n</div>\r\n<div>\r\n    ");
             EndContext();
             BeginContext(1503, 54, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f0cf2294a81e4233b6afe8bc2c8004c8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e2719bbfaff14f33984de3e802208b16", async() => {
                 BeginContext(1549, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -206,7 +206,7 @@ using ContosoUniversity.Models;
             WriteLiteral(" |\r\n    ");
             EndContext();
             BeginContext(1565, 38, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7ba153c98617411289b905180d7a82e8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bc0f6c50cf924407b517cc1689d842ce", async() => {
                 BeginContext(1587, 12, true);
                 WriteLiteral("Back to List");
                 EndContext();
