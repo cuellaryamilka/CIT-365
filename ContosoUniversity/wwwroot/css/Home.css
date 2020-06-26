@@ -1,0 +1,47 @@
+﻿
+
+
+/*This makes everything after the first column to satay in place */
+.row:after{
+    content:"";
+    display: table;
+    clear: both;
+}
+
+h1 {
+    position: center;
+    font-family: 'Playfair Display SC', serif;
+    
+}
+
+h2 {
+    background-color:lightsteelblue;
+    font-family: 'Philosopher', sans-serif;
+    
+}
+
+.container .jumbotron {
+    max-width:75%;
+    background-color: lightsteelblue ;
+    
+   
+}
+
+col-md-offset-2 {
+    margin-left: 35%;
+}
+
+.row {
+    margin-top: 10%;
+    margin-bottom: 20%;
+}
+
+row, p{
+    color:azure;
+}
+
+
+
+
+
+

@@ -70,7 +70,7 @@ using ContosoUniversity.Models;
             WriteLiteral("    ");
             EndContext();
             BeginContext(134, 362, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c0906c741d9148708df1660e7df6f330", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d50dd79eeaa74d01bcd976f56729d337", async() => {
                 BeginContext(173, 134, true);
                 WriteLiteral("\r\n        <div class=\"form-actions no-color\">\r\n            <p>\r\n                Enter a number to multiply every course\'s credits by: ");
                 EndContext();
