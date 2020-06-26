@@ -54,3 +54,4 @@ D:\BYUI\CIT 365 Net Software Development\VSProjects\CIT-365\ContosoUniversity\ob
 D:\BYUI\CIT 365 Net Software Development\VSProjects\CIT-365\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 D:\BYUI\CIT 365 Net Software Development\VSProjects\CIT-365\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 D:\BYUI\CIT 365 Net Software Development\VSProjects\CIT-365\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+D:\BYUI\CIT 365 Net Software Development\VSProjects\CIT-365\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Courses\UpdateCourseCredits.cshtml.g.cs
