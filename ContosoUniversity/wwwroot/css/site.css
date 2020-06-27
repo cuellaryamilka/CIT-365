@@ -29,6 +29,7 @@ body, p {
 /* Make .svg files in the carousel display properly in older browsers */
 .carousel-inner .item img[src$=".svg"] {
     width: 100%;
+    
 }
 
 /* QR code generator */
@@ -42,6 +43,8 @@ body, p {
     .carousel-caption {
         display: none;
     }
+
+   
 
     
 }

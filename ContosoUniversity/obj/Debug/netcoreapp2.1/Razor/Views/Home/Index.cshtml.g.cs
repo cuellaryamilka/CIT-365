@@ -56,7 +56,7 @@ using ContosoUniversity.Models;
 #line default
 #line hidden
             BeginContext(45, 129, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7729971633f54db5a0a9ad68ccca1356", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2a9839ee3d6c4692b86d4e6427bcddfe", async() => {
                 BeginContext(51, 116, true);
                 WriteLiteral("\r\n    <link href=\"https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap\" rel=\"stylesheet\">\r\n");
                 EndContext();
